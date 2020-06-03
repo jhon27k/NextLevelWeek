@@ -1,2 +1,2 @@
 # NextLevelWeek
-Projeto desenvolvido junto com o curso Next Level Week da Rocketseat 
+Projeto desenvolvido com o curso Next Level Week da Rocketseat 
