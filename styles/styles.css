@@ -1,0 +1,15 @@
+html {
+  padding: 20px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* align-content: space-between; */
+}
